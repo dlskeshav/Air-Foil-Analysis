@@ -1,61 +1,36 @@
-Title
-Airfoil Design Analysis Using XFLR5
-Comparative Study of NACA 4412 and NACA 0012 Airfoils
-
-Project Description
-This research investigates the aerodynamic performance of two distinct airfoil profiles: NACA 4412 (cambered) and NACA 0012 (symmetric). Using XFLR5 software, we analyze and compare their suitability for low-speed and high-speed aircraft applications respectively. The study focuses on lift, drag, moment coefficients, pressure distribution, and stall behavior over varying angles of attack and Reynolds numbers.
-
-Objectives
-Evaluate and quantify the aerodynamic characteristics of NACA 4412 and NACA 0012.
-
-Compare their performance for low-speed and high-speed flight regimes.
-
-Analyze stall behavior and stability metrics.
-
-Provide insights for airfoil selection and aircraft design based on performance data.
-
-Tools Used
-XFLR5 v6.61 – for airfoil and wing aerodynamic analysis.
-
-Excel – for graph generation and visualization.
-
-Microsoft Word – for documentation.
-
-Key Results
-NACA 4412 demonstrated higher lift and better stall behavior at low speeds, ideal for aircraft requiring short takeoff and landing (STOL) capabilities.
-
-NACA 0012 exhibited lower drag and better efficiency at high speeds, suitable for high-speed training and combat aircraft.
-
-The project provided a clear comparative performance analysis through lift-drag polars, stall charts, and pressure distribution plots.
-
-Project Timeline
-Week 1: Airfoil setup, geometry import, and basic simulation.
-
-Week 2: Stall behavior analysis and performance metrics extraction.
-
-Week 3: Comparative study, results visualization, and final report preparation.
 
 
-Install XFLR5 v6.61.
+## ✈️ Project Title
+**Aerodynamic Performance Analysis of NACA 4412 and NACA 0012 Using XFLR5**
 
-Import standard airfoil coordinates for NACA 4412 and NACA 0012.
+## 📚 About the Project
+This project focuses on analyzing and comparing two renowned airfoil profiles — **NACA 4412** (cambered) and **NACA 0012** (symmetric) — to evaluate their suitability for different flight regimes. Using **XFLR5 software**, we studied the lift, drag, pressure distribution, moment coefficients, and stall characteristics of both airfoils across various angles of attack and Reynolds numbers.
 
-Set appropriate Reynolds numbers:
+Through a detailed comparative study, we aimed to highlight how airfoil geometry impacts aerodynamic behavior, and guide airfoil selection for low-speed and high-speed aircraft applications.
 
-NACA 4412: ~5,351,123
+## 🎯 Objectives
+- **Quantify** aerodynamic parameters like lift, drag, and moment coefficients.
+- **Compare** airfoil performance under low-speed and high-speed conditions.
+- **Analyze** stall behavior and stability through simulations.
+- **Generate insights** to assist in optimal airfoil selection for different aircraft types.
 
-NACA 0012: ~9,993,823
+## 🛠 Tools Used
+- **XFLR5 v6.61** – For computational aerodynamic simulations.
+- **Microsoft Excel** – For graphing and performance visualization.
+- **Microsoft Word** – For report documentation.
 
-Conduct simulations over specified angles of attack.
+## 🚀 Key Highlights
+- **NACA 4412** showed superior lift at low speeds, making it ideal for applications like short takeoff and landing (STOL) aircraft.
+- **NACA 0012** demonstrated minimized drag at higher speeds, suitable for trainer and high-speed flight missions.
+- Detailed analysis of stall behavior, pressure distributions, and performance metrics enabled a strong understanding of real-world airfoil applications.
 
-Analyze lift, drag, moment coefficients, and stall angles.
+## 🧠 Learning Outcomes
+- Mastered the use of XFLR5 for 2D airfoil analysis.
+- Understood the aerodynamic trade-offs between cambered and symmetric airfoils.
+- Gained valuable exposure to lift-to-drag optimization and stall management for aircraft design.
 
-Compare and document the performance.
+## 📝 Conclusion
+The study validates that **NACA 4412** is the preferred choice for **low-speed, high-lift** aircraft, while **NACA 0012** excels in **high-speed, low-drag** flight conditions.  
+This project reflects the importance of tailored airfoil selection based on the mission requirements of modern aircraft, providing deep insights for both academic research and practical design.
 
-Conclusion
-NACA 4412 is ideal for low-speed aircraft needing high lift and good low-speed control.
-
-NACA 0012 is best suited for high-speed aircraft prioritizing reduced drag and stable high-speed operation.
-
-The project highlights the critical role of airfoil geometry in aerodynamic performance and aircraft design optimization.
-
+*"Shaping flight, one airfoil at a time."* ✈️  
